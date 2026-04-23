@@ -1,4 +1,6 @@
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" width="100%" loading="lazy">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Melissa</h1>
+<img src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/neon-line.gif" width="100%" loading="lazy">
 <h3 align="center">I'm a passionate learner from Poland.</h3>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programming+is+Thinking;not+Typing......" alt="Typing SVG" /></a>
 </p>
