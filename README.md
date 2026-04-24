@@ -1,31 +1,46 @@
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/neon-line.gif" width="100%" loading="lazy">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Melissa</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Melissa 💖</h1>
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/neon-line.gif" width="100%" loading="lazy">
-<h3 align="center">I'm a passionate learner from Poland.</h3>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programming+is+Thinking;not+Typing......" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&color=FF8FCF&center=true&vCenter=true&lines=Programming+is+Thinking;not+Typing......" />
+  </a>
 </p>
-
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+## 💗 About Me
+- 🎀 Love learning new technologies  
+- 💻 Focused on coding & problem solving  
+- 🌸 Exploring creativity through tech  
 
 ---
-## 📈 GitHub Stats
 
+## 🧁 Languages & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melissalins69&show_icons=true&theme=default&hide_border=true&title_color=9F8FFF&text_color=6F7FAF&icon_color=FFB6C1&bg_color=FDF4FF" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissalins69&layout=compact&theme=default&hide_border=true&title_color=9F8FFF&text_color=6F7FAF&bg_color=FDF4FF" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=melissalins69&theme=default&hide_border=true&background=FDF4FF&ring=9F8FFF&fire=FFB6C1&currStreakLabel=FFB6C1&sideNums=6F7FAF&sideLabels=6F7FAF" height="150"/>
+<img src="https://skillicons.dev/icons?i=angular,bootstrap,cpp,css,git,graphql,html,java,js,mongodb,mysql,nodejs,opencv,py,react&theme=light" />
 </p>
 
 ---
 
+## 📊 GitHub Stats (Pink Edition)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=melissalins69&show_icons=true&hide_border=true&title_color=FF8FCF&text_color=B57EDC&icon_color=FFB6C1&bg_color=FFF0F7" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissalins69&layout=compact&hide_border=true&title_color=FF8FCF&text_color=B57EDC&bg_color=FFF0F7" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=melissalins69&hide_border=true&background=FFF0F7&ring=FF8FCF&fire=FFB6C1&currStreakLabel=FFB6C1&sideNums=B57EDC&sideLabels=B57EDC" height="150"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/neon-line.gif" width="100%" />
+</p>
 ---
 
 <!-- Pacman -->
