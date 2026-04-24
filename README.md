@@ -36,12 +36,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=melissalins69&hide_border=true&background=FFF0F7&ring=FF8FCF&fire=FFB6C1&currStreakLabel=FFB6C1&sideNums=B57EDC&sideLabels=B57EDC" height="150"/>
 </p>
 
----
 
 <p align="center">
   <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/neon-line.gif" width="100%" />
 </p>
----
+
 
 <!-- Pacman -->
 <picture>
