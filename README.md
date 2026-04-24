@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats (Pink Edition)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=melissalins69&show_icons=true&hide_border=true&title_color=FF8FCF&text_color=B57EDC&icon_color=FFB6C1&bg_color=FFF0F7" height="180" />
