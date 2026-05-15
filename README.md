@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400px" />
+  <img alt="Melissa" src="https://github.com/user-attachments/assets/4cb9d097-9893-46b2-977b-90be1da7ef1c" width="260px" />
 </div>
 
 ---
